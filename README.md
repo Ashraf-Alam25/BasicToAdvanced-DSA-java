@@ -6,7 +6,7 @@ It covers topics from basic programming concepts to advanced data structures and
 
 ---
 
-# 📂 Folder Structure
+# 📂 Folder Structure 
 
 The repository is organized topic-wise for easy navigation:
 
