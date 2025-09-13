@@ -1,12 +1,12 @@
 # BasicToAdvanced-DSA-java
-# 🚀 Java DSA & Programming Repository
+# Java DSA & Programming Repository
 
 This repository contains my complete Java programming and Data Structures & Algorithms (DSA) practice codes.  
 It covers topics from basic programming concepts to advanced data structures and algorithms.
 
 ---
 
-## 📂 Folder Structure
+# 📂 Folder Structure
 
 The repository is organized topic-wise for easy navigation:
 
@@ -71,7 +71,3 @@ The repository is organized topic-wise for easy navigation:
 
 ---
 
-## 📖 How to Use
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/java-dsa.git
