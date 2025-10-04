@@ -6,7 +6,7 @@ It covers topics from basic programming concepts to advanced data structures and
 
 ---
 
-# 📂 Folder Structure 
+# Folder Structure 
 
 The repository is organized topic-wise for easy navigation:
 
@@ -64,7 +64,7 @@ The repository is organized topic-wise for easy navigation:
 
 ---
 
-## ⚡ Tech Stack
+## Tech Stack
 - Language: **Java**
 - IDEs Used: IntelliJ IDEA / Eclipse / VS Code
 - Version Control: Git & GitHub
