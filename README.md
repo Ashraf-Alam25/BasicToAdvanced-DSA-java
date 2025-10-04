@@ -64,7 +64,7 @@ The repository is organized topic-wise for easy navigation:
 
 ---
 
-## Tech Stack
+#Tech Stack
 - Language: **Java**
 - IDEs Used: IntelliJ IDEA / Eclipse / VS Code
 - Version Control: Git & GitHub
